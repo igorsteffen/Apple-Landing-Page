@@ -1,5 +1,5 @@
 # Static-Clone-Apple-Website
-Static cloned apple website developed for study purpose
+Static cloned apple website developed for study purpose. Deployment through the AWS S3 service.
 
 [apple website project](http://igorsteffen.com.s3-website.us-east-2.amazonaws.com/)
 
