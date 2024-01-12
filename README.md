@@ -1,5 +1,5 @@
 # Apple Landing Page
-Apple landing page developed with HTML and CSS for study purpose. Deployment through the AWS S3 service.
+Apple landing page developed with HTML and CSS for study purposes. Deployment through the AWS S3 service.
 
 [apple landing page project](http://static-apple-website.s3-website.us-east-2.amazonaws.com/)
 
